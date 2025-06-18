@@ -2,9 +2,12 @@ alert("ola mundo");
 
 //uma variavel guarda um valor temporariamente
 // entrada de dados
-var nome = "Beatriz"
+var nome = "Bia"
 var idade = "22"
 var senha= "123"
+ 
+//registrando alterações
+
 
 //estrutura de condição
 if (idade >= 18) {
