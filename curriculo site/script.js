@@ -34,5 +34,6 @@ var celular = document.querySelector(".celular");      //icone de menu
 var listamenu= document.querySelector(".menu ul");    //itens do menu
 
 celular.addEventListener("click", function(){ 
-    listamenu.classList.toggle("mostrarmenu");jk
+    listamenu.classList.toggle("mostrarmenu");
 });
+//enviando alteração para github com visual studio code
