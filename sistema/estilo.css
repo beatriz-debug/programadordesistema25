@@ -1,0 +1,18 @@
+.navegacao{
+    background-color: rgb(0, 0, 0) !important; 
+    background: linear-gradient(to right, rgb(0, 0, 0), rgb(133, 179, 248));
+}
+
+.menu{
+    background-color: rgb(0, 0, 0);
+    /*o menu pega toda altura da tela*/
+    height: 100vh;
+    list-style: none;
+    }
+
+    .menu-item{
+        color: aliceblue;
+        padding: 8px 0px;
+        text-decoration: none;
+        font-size: 20px;
+    }
